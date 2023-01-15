@@ -1,0 +1,4 @@
+ghkd	46	a
+vc	65	a-
+n	a	s
+k	s	a
